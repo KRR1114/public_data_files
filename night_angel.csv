@@ -1,4 +1,4 @@
-first,last,book,year,genre,publisher
-Brent,Weeks,Way of Shadows,2008,Fantasy,Orbit
-Brent,Weeks,Shadow's Edge,2008,Fantasy,Orbit
-Brent,Weeks,Beyond the Shadows,2008,Fantasy,Orbit
+book,year,genre,publisher
+Way of Shadows,2008,Fantasy,Orbit
+Shadow's Edge,2008,Fantasy,Orbit
+Beyond the Shadows,2008,Fantasy,Orbit
