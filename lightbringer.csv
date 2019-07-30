@@ -1,6 +1,6 @@
-first,last,book,year,genre,publisher
-Brent,Weeks,Black Prism,2010,Fantasy,Orbit
-Brent,Weeks,Blinding Knife,2012,Fantasy,Orbit
-Brent,Weeks,Broken Eye,2014,Fantasy,Orbit
-Brent,Weeks,Blood Mirror,2016,Fantasy,Orbit
-Brent,Weeks,Burning White,2019,Fantasy,Orbit
+name,year,genre,publisher
+Black Prism,2010,Fantasy,Orbit
+Blinding Knife,2012,Fantasy,Orbit
+Broken Eye,2014,Fantasy,Orbit
+Blood Mirror,2016,Fantasy,Orbit
+Burning White,2019,Fantasy,Orbit
